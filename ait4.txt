@@ -1,0 +1,23 @@
+Cloud computing is the on-demand availability of computer system resources, especially data storage and computing power, without direct active management by the user. Large clouds often have functions distributed over multiple locations, each of which is a data center.Cloud computing is the delivery of different services through the Internet, including data storage, servers, databases, networking, and software.
+Cloud storage has grown increasingly popular among individuals who need larger storage space and for businesses seeking an efficient off-site data back-up solution.
+Cloud-based storage makes it possible to save files to a remote database and retrieve them on demand.
+Services can be both public and private—public services are provided online for a fee while private services are hosted on a network to specific clients.
+Cloud security has become an increasingly important field in IT.
+Understanding Cloud Computing
+Cloud computing is named as such because the information being accessed is found remotely in the cloud or a virtual space. Companies that provide cloud services enable users to store files and applications on remote servers and then access all the data via the Internet. This means the user is not required to be in a specific place to gain access to it, allowing the user to work remotely.
+
+Cloud computing takes all the heavy lifting involved in crunching and processing data away from the device you carry around or sit and work at. It also moves all of that work to huge computer clusters far away in cyberspace. The Internet becomes the cloud, and voilà—your data, work, and applications are available from any device with which you can connect to the Internet, anywhere in the world.
+
+
+Cloud computing can be both public and private. Public cloud services provide their services over the Internet for a fee. Private cloud services, on the other hand, only provide services to a certain number of people. These services are a system of networks that supply hosted services. There is also a hybrid option, which combines elements of both the public and private services.
+
+Types of Cloud Services
+Regardless of the kind of service, cloud computing services provide users with a series of functions including:
+
+Email
+Storage, backup, and data retrieval
+Creating and testing apps
+Analyzing data
+Audio and video streaming
+Delivering software on demand
+Cloud computing is still a fairly new service but is being used by a number of different organizations from big corporations to small businesses, nonprofits to government agencies, and even individual consumers
